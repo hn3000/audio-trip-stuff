@@ -24,3 +24,17 @@ Voilà!
 
 ![Create shortcut in SideQuest](./img/SideQuest-icon-create.png)
 ![Finished shortcut in SideQuest](./img/SideQuest-icon-after.png)
+
+For some variety, I played around with the icon:
+
+![icon1](./icon/AudioTrip-icon-round@256.png) 
+<https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round@256.png>
+
+
+![icon2](./icon/AudioTrip-icon-round2@256.png)
+<https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round2@256.png>
+
+![icon3](./icon/AudioTrip-icon-round3@256.png)
+<https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round3@256.png>
+
+![icon4](./icon/AudioTrip-icon-round4@256.png) <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round4@256.png>
