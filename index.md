@@ -6,7 +6,7 @@ Just a place for some stuff I'd like to write down about the VR rhythm game
 I use my Oculus Quest for at the moment.
 
 
-## Add Audio Trip Songs folder to SideQuest
+## Shortcut to Audio Trip Songs folder in SideQuest
 
 Click the `+` to the right of the existing shortcuts.
 
