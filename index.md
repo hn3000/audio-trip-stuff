@@ -38,3 +38,8 @@ For some variety, I played around with the icon:
 <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round3@256.png>
 
 ![icon4](./icon/AudioTrip-icon-round4@256.png) <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round4@256.png>
+
+
+------
+
+Gladly hosted on github at <https://github.com/hn3000/audio-trip-stuff> , pull requests, issues or suggestions welcome!
