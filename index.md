@@ -14,7 +14,7 @@ Enter these values for the new shortcut:
 
 * Audio Trip
 * /sdcard/Android/data/com.KinemotikStudios.AudioTripQuest/files/Songs
-* https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round@256.png
+* https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_folder.png
 
 Then click the green '+' to add the entry.
 
@@ -25,7 +25,20 @@ Voilà!
 ![Create shortcut in SideQuest](./img/SideQuest-icon-create.png)
 ![Finished shortcut in SideQuest](./img/SideQuest-icon-after.png)
 
-For some variety, I played around with the icon:
+From the Audio Trip developers, specifically for use in SideQuest:
+
+![folder](./icon/AT_Discord_Sidequest_folder.png) 
+<https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_folder.png>
+
+![game](./icon/AT_Discord_Sidequest_game.png) 
+<https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_game.png>
+
+![music](./icon/AT_Discord_Sidequest_music.png) 
+<https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_music.png>
+
+
+
+These are my old handmade icons, I will remove them soon:
 
 ![icon1](./icon/AudioTrip-icon-round@256.png) 
 <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round@256.png>
