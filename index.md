@@ -27,30 +27,31 @@ Voilà!
 
 From the Audio Trip developers, specifically for use in SideQuest:
 
-![folder](./icon/AT_Discord_Sidequest_folder.png) 
+![folder](./icon/AT_Discord_Sidequest_folder.png) <br>
 <https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_folder.png>
 
-![game](./icon/AT_Discord_Sidequest_game.png) 
+![game](./icon/AT_Discord_Sidequest_game.png) <br>
 <https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_game.png>
 
-![music](./icon/AT_Discord_Sidequest_music.png) 
+![music](./icon/AT_Discord_Sidequest_music.png) <br>
 <https://hn3000.github.io/audio-trip-stuff/icon/AT_Discord_Sidequest_music.png>
 
 
 
 These are my old handmade icons, I will remove them soon:
 
-![icon1](./icon/AudioTrip-icon-round@256.png) 
+![icon1](./icon/AudioTrip-icon-round@256.png) <br>
 <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round@256.png>
 
 
-![icon2](./icon/AudioTrip-icon-round2@256.png)
+![icon2](./icon/AudioTrip-icon-round2@256.png) <br>
 <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round2@256.png>
 
-![icon3](./icon/AudioTrip-icon-round3@256.png)
+![icon3](./icon/AudioTrip-icon-round3@256.png) <br>
 <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round3@256.png>
 
-![icon4](./icon/AudioTrip-icon-round4@256.png) <https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round4@256.png>
+![icon4](./icon/AudioTrip-icon-round4@256.png) <br>
+<https://hn3000.github.io/audio-trip-stuff/icon/AudioTrip-icon-round4@256.png>
 
 
 ------
